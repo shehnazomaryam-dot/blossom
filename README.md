@@ -1,2 +1,3 @@
 # blossom
-our design detects the fluid level in an iv which is used in healthcare and sends a buzzer or a light will be indicating when the fluid is less so that they can turn off the fluid if the iv did not turn off then there will be backflow noted in iv tube for preventing it we can use it
+Our design monitors the fluid level in an IV system used in healthcare settings. When the fluid level becomes low, the device activates a buzzer or light to alert healthcare staff. This helps ensure the IV is turned off or replaced in time. If the IV is not turned off when the fluid runs out, blood may flow back into the IV tube (backflow). Our system helps prevent this complication.
+we use simple and cost effective method for making this model
